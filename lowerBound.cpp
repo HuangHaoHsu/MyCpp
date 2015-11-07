@@ -26,7 +26,7 @@ int main() {
 	int pivot1 = 12;
 	int pivot2 = 7;
 	int pivot3 = 9;
-	int pivot4 = -3;
+	int pivot4 = 1;
 	cout << lowerBound(testCase1, pivot1) << endl;
 	cout << lowerBound(testCase1, pivot2) << endl;
 	cout << lowerBound(testCase1, pivot3) << endl;
