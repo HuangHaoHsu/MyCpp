@@ -4,3 +4,5 @@ lowerBound
 upperBound
 
 removeInvalidParentheses
+
+lengthOfLIS
