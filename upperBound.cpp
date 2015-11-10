@@ -29,10 +29,12 @@ int main() {
 	int p3 = 6;
 	int p4 = 9;
 	int p5 = 15;
+	int p6 = 2;
 	cout << upperBound(testCase1, p1) << endl;
 	cout << upperBound(testCase1, p2) << endl;
 	cout << upperBound(testCase1, p3) << endl;
 	cout << upperBound(testCase1, p4) << endl;
 	cout << upperBound(testCase1, p5) << endl;
+	cout << upperBound(testCase1, p6) << endl;
 	return 0;
 }
